@@ -1,0 +1,146 @@
+{
+    "id": "04957b34-1ce2-4724-979b-bfb1a54f8ed9",
+    "question_count": 5,
+    "questions": [
+        {
+            "id": "504f3daf-1e58-41e7-b104-583d516d9a2e",
+            "type": "MCQ",
+            "target_score": 2,
+            "description": "Mahatma  Gandhi launched Kheda Satyagrah on Gujrat in 1918 to support the cause of _______.",
+            "options": [
+                {
+                    "name": "A",
+                    "description": "Mill Owners",
+                    "correct": false
+                },
+                {
+                    "name": "B",
+                    "description": "Land Lords",
+                    "correct": false
+                },
+                {
+                    "name": "C",
+                    "description": "The peasants",
+                    "correct": true
+                },
+                {
+                    "name": "D",
+                    "description": "Kol Rebellion",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "fd0c277b-cfe0-4adf-a3e2-db3ce57e0485",
+            "type": "MCQ",
+            "target_score": 2,
+            "description": "The Rowlatt Act was passed in : ",
+            "options": [
+                {
+                    "name": "A",
+                    "description": "1905",
+                    "correct": false
+                },
+                {
+                    "name": "B",
+                    "description": "1913",
+                    "correct": false
+                },
+                {
+                    "name": "C",
+                    "description": "1919",
+                    "correct": true
+                },
+                {
+                    "name": "D",
+                    "description": "1925",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "c34da472-9027-4dc0-bd22-13a240250045",
+            "type": "MCQ",
+            "target_score": 2,
+            "description": "The revolutionary like Ashfaqullah Khan, Chandra Shekhar  Azad, Ram Prasad Bismil, Roshan Singh and Rajendra Lahiri were all associated with : ",
+            "options": [
+                {
+                    "name": "A",
+                    "description": "The Kakori Conspiracy case (1925)",
+                    "correct": true
+                },
+                {
+                    "name": "B",
+                    "description": "1857 Revolt",
+                    "correct": false
+                },
+                {
+                    "name": "C",
+                    "description": "Chauri Chaura Case",
+                    "correct": false
+                },
+                {
+                    "name": "D",
+                    "description": "The Jallianwala Bagh massacre",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "b70412f6-4542-419a-8a27-585929e4dbc6",
+            "type": "MCQ",
+            "target_score": 2,
+            "description": "Lala Lajpat Rai was also known as :",
+            "options": [
+                {
+                    "name": "A",
+                    "description": "Sher-e-Bengal",
+                    "correct": false
+                },
+                {
+                    "name": "B",
+                    "description": "Sher-e-Maharastra",
+                    "correct": false
+                },
+                {
+                    "name": "C",
+                    "description": "Sher-e-Kashmir",
+                    "correct": false
+                },
+                {
+                    "name": "D",
+                    "description": "Sher-e-Punjab",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": "b519054e-abf2-43ff-8f38-526a25f89cec",
+            "type": "MCQ",
+            "target_score": 2,
+            "description": "Sri Aurobindo Ghosh was born in the year :",
+            "options": [
+                {
+                    "name": "A",
+                    "description": "1872",
+                    "correct": true
+                },
+                {
+                    "name": "B",
+                    "description": "1982",
+                    "correct": false
+                },
+                {
+                    "name": "C",
+                    "description": "1884",
+                    "correct": false
+                },
+                {
+                    "name": "D",
+                    "description": "1892",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}
